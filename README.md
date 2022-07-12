@@ -6,7 +6,7 @@
 
 ## :page_facing_up: Explicação
 
-O projeto foi desenvolvido utilizando o framework [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html), e a api-localstorage para salvar os links no navegador.
+O projeto foi desenvolvido utilizando a biblioteca [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html), e a api-localstorage para salvar os links no navegador.
 
 ## 🚀 Tecnologias ##
 
